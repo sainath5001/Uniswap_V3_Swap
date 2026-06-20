@@ -1,0 +1,1 @@
+Added a new `decrement` function to the Counter contract, allowing users to decrease the counter value.
